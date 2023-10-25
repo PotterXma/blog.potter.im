@@ -1,1 +1,1 @@
-# blog.jude.im
+# blog.potter.im
