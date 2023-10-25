@@ -1,1 +1,1 @@
-# blog.potter.im
+# https://potterxma.github.io/
